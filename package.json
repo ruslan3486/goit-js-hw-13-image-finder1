@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-13-image-finder1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder1/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan3486/goit-js-hw-13-image-finder1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan3486/goit-js-hw-13-image-finder1/issues"
+  },
+  "homepage": "https://github.com/ruslan3486/goit-js-hw-13-image-finder1#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
